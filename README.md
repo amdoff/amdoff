@@ -1,16 +1,63 @@
-## Hi there 👋
+👋 Hello, I'm Abdullo
+💻 Python Developer • 🗄️ SQL Specialist
+Building backend systems, automating workflows, and working with data-driven solutions.
 
-<!--
-**amdoff/amdoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+* 🔭 Improving my Python & SQL skills
+* 🧠 Interested in backend development & data engineering
+* 🌱 Learning FastAPI, Docker, Linux, and advanced database concepts
+* ⚙️ Building useful real-life tools and automation scripts
+* 📌 Focused on clean, maintainable and scalable code
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Languages
+Python
+SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases
+* PostgreSQL
+* MySQL
+* SQLite
+
+Backend & Technologies
+REST API
+JSON
+FastAPI 
+Django 
+
+Developer Tools
+Git
+GitHub
+Linux / Ubuntu
+VS Code
+Jupyter Notebook
+
+
+Python Libraries
+Pandas
+NumPy
+Requests
+SQLAlchemy
+
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amdoff&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdoff&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </div>
+
+🏆 Achievements
+* ⭐ Gaining experience in backend & data engineering
+* 🔧 Building multiple personal backend tools
+* 🎯 Daily coding and continuous learning
+* 📚 Expanding knowledge in APIs, databases, and automation
+
+📈 Future Plans
+* Master FastAPI & Django
+* Learn Docker, CI/CD, and cloud deployment
+* Build portfolio-level backend systems
+* Contribute to open-source projects
+
+📫 Contact Me
+* GitHub: amdoff
+* Telegram: @a_mdoff
+* Email: abdulloahmedov0002@gmil.com
+
+
