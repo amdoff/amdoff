@@ -39,10 +39,6 @@ NumPy
 Requests
 SQLAlchemy
 
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amdoff&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdoff&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </div>
-
 🏆 Achievements
 * ⭐ Gaining experience in backend & data engineering
 * 🔧 Building multiple personal backend tools
