@@ -1,4 +1,4 @@
-<h3 align="left"># Hi there 👋, I'm</h3>
+<h3 align="left">Hey  👋 What's up?</h3>
 
 ###
 
@@ -6,7 +6,17 @@
 
 ###
 
-<h4 align="left">## 🌟 About Me<br>🔭 Improving my skills in **Python, SQL & AI/ML**  <br>🧠 Passionate about **backend development, data engineering & AI applications**  <br>🌱 Exploring **FastAPI, Docker, Linux & advanced databases**  <br>⚙️ Building **practical tools, automation scripts & AI-powered projects**  <br>📌 Focused on **clean, maintainable & scalable code**  <br>🤖 Excited to **integrate AI into real-world solutions**<br><br>---</h4>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h4 align="left">My name is Abdullo and I'm a software developer, living in Japan.</h4>
+
+###
+
+<p align="left">About me<br><br>✨ Bug engineer since 2023 🐛 (breaking things so you don’t have to)<br>📚 Currently leveling up: Japanese & AI 🤓<br>🎯 Goals: Conquer the unknown (or at least understand it 😎)<br>🎲 Side quests: Table tennis champ in training 🏓</p>
 
 ###
 
@@ -17,31 +27,33 @@
 
 ###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="38" alt="linkedin logo"  />
+</div>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="31" alt="github logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="31" alt="git logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="31" alt="c logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="31" alt="blender logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="31" alt="linkedin logo"  />
-</div>
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/amdoff/amdoff/output/snake.svg" alt="Snake animation" />
 
