@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h3 align="left">Hey  👋 What's up?</h3>
 
 ###
@@ -78,5 +78,4 @@
 </div>
 
 ###
-=======
->>>>>>> 1f52910 (Update README and workflows for Snake & Pacman animations)
+
